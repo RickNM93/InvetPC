@@ -46,7 +46,7 @@
                         <a href="rsucur.php">Resumen de Sucursales</a>
                     </li>
                     <li>
-                        <a href="#">Realizar Venta</a>
+                        <a href="venta.php">Realizar Venta</a>
                     </li>
                 </ul>
             </div>
