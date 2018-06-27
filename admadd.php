@@ -31,7 +31,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="index_2.php">Inicio</a>
+                        <a href="index_2.php">Iniciar</a>
                     </li>
                     <li>
                         <a href="admins.php">Cuentas de Administrador</a>
@@ -138,7 +138,7 @@
         oci_bind_by_name($s, ":bps", $pass);
         oci_bind_by_name($s, ":bml", $mail);
 		oci_execute($s);
-		echo "Agrregado Correctamente";  //MENSAJE DE EXITO
+		echo "Agrregado Correctamenteeee";  //MENSAJE DE EXITO
 	}
 	else{
 		echo "waiting";  //MENSAJE DE ESPERA MIENTRAS NO SE REALICE EL PROCEDIMIENTO
